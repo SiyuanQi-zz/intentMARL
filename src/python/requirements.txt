@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+plyfile
+h5py
+opencv-python
+tensorflow
+Pillow
